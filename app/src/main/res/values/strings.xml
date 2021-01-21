@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">COVID API</string>
+    <string name="show">Wyświetl zawartośc bazy danych</string>
+    <string name="new_activity">Przejdź do dodawania do bazy</string>
+    <string name="add_id">Podaj numer Id</string>
+    <string name="add_firstName">Podaj nazwisko</string>
+    <string name="add_lastName"> Podaj nazwisko</string>
+    <string name="add_person">Dodaj osobę do bazy</string>
+
+
+    <string name="add_data">ADD DATA FOR COUNTRY</string>
+    <string name="show_data">SHOW EXISTING DATA</string>
+    <string name="get_stats">GET STATS</string>
+
+
+</resources>
